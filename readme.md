@@ -1,7 +1,10 @@
 # algorism-practice
-## ±âº» ¾Ë°í¸®Áò ¿¬½ÀÄÚµå Á¤ ¸®
-### Âü°í »çÀÌÆ® 
+## ê¸°ë³¸ ì•Œê³ ë¦¬ì¦˜ ì—°ìŠµì½”ë“œ ì •ë¦¬
+### ì°¸ê³  ì‚¬ì´íŠ¸
 > https://blog.naver.com/PostList.nhn?blogId=ndb796&categoryNo=128&from=postList&parentCategoryNo=128
 > https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz
 
- 
+## ìˆ˜ê°• ëª©ë¡
+- í™˜ê²½êµ¬ì¶• ë° ê¸°ë³¸ ì •ë ¬ 1 ~ 6, 8, 11 ~ 13
+- ìë£Œêµ¬ì¡° ë° íƒìƒ‰ 14 ~ 18
+- ì†ŒìŠ¤ ë° ê·¸ë˜í”„ 21 ~ 27
