@@ -17,9 +17,23 @@
 - Stack
 - Queue
 
-### 탐색 알고리즘 (16 ~ 18)
+### 탐색 알고리즘 (16 ~ 18, 20 ~ 23)
 - BFS(Breath First Search) 너비 우선 탐색
 - DFS(Depth First Search) 깊이 우선 탐색
-- Union Find 교집함 찾기
+- Union Find 교집합 찾기
+- Binary tree and Search(이진트리와 이진탐색)
+- Dynamic Programming(다이나믹 프로그래밍, 동적 계획법)
 
-### 소스 및 그래프 (21 ~ 27)
+
+### 소스 및 그래프 (24 ~ 27)
+- Prime number(에라토스테네스의 체)
+- Dijkstra Algorithm(다익스트라 알고리즘)
+- Floyd warshall Algorithm(플로이드 와샬 알고리즘)
+
+
+### etc (28 ~ 34)
+- Strongly Connected Component(강한 결합 요소)
+- Network Flow(네트워크 플로우)
+- 위상 정렬
+- 이분 매칭
+- KMP 문자열 매칭 알고리즘
