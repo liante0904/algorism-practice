@@ -5,7 +5,7 @@
 > https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz
 
 ## 수강 목록(회차)
-### 환경구축 및 기본 정렬 (1 ~ 5, 7, 11)
+### 환경구축 및 시간 복잡도 기본 정렬 (1 ~ 5, 7, 11)
 - Hello World
 - Selection Sort
 - Buble Sort
